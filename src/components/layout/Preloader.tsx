@@ -31,7 +31,7 @@ export default function Preloader() {
               transition={{ duration: 0.7, delay: 0.15 }}
               className="font-display text-2xl tracking-[0.3em] text-paper sm:text-3xl"
             >
-              HOTEL FELLINI
+              HOTEL ADRIANO
             </motion.span>
             <motion.span
               initial={{ opacity: 0 }}

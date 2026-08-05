@@ -4,7 +4,7 @@ import JournalCard from "@/components/ui/JournalCard";
 import { JOURNAL } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Journal — Hotel Fellini Rimini",
+  title: "Journal — Hotel Adriano Rimini",
   description:
     "Notes from the concierge desk — Rimini's old town, our stretch of the Adriatic, and the story behind the Fellini room names.",
 };

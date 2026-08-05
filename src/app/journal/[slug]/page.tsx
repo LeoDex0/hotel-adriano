@@ -20,7 +20,7 @@ export async function generateMetadata({
   const post = JOURNAL.find((p) => p.id === slug);
   if (!post) return {};
   return {
-    title: `${post.title} — Hotel Fellini Journal`,
+    title: `${post.title} — Hotel Adriano Journal`,
     description: post.excerpt,
   };
 }

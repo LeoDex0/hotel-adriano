@@ -35,7 +35,7 @@ export async function generateMetadata({
   const room = ROOMS.find((r) => r.id === slug);
   if (!room) return {};
   return {
-    title: `${room.name} — Hotel Fellini Rimini`,
+    title: `${room.name} — Hotel Adriano Rimini`,
     description: room.description,
   };
 }

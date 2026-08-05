@@ -33,7 +33,7 @@ export default function About() {
           <SectionHeading
             eyebrow="The Hotel"
             title="Somewhere between memory and invention"
-            description="Federico Fellini once said Rimini lived between memory and invention — Hotel Fellini borrows that spirit. A boutique address on the Adriatic shoreline where mid-century glamour meets unhurried Romagna hospitality: forty-two rooms and suites, a rooftop pool, and a private stretch of beach, ninety metres from your pillow."
+            description="Federico Fellini once said Rimini lived between memory and invention — Hotel Adriano borrows that spirit. A boutique address on the Adriatic shoreline where mid-century glamour meets unhurried Romagna hospitality: forty-two rooms and suites, a rooftop pool, and a private stretch of beach, ninety metres from your pillow."
           />
 
           <div className="mt-12 grid grid-cols-2 gap-x-6 gap-y-10 xl:grid-cols-4">

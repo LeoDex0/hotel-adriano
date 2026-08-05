@@ -1,18 +1,18 @@
 export const SITE = {
-  name: "Hotel Fellini",
-  fullName: "Hotel Fellini Rimini",
+  name: "Hotel Adriano",
+  fullName: "Hotel Adriano Rimini",
   tagline: "Adriatic Dolce Vita",
   description:
     "A cinema-inspired boutique hotel on the Rimini seafront — mid-century glamour, rooftop views of the Adriatic, and unhurried Romagna hospitality.",
-  address: "Viale Rapallo, 21, 47924 Rimini RN, Italy",
-  addressShort: "Viale Rapallo, 21 · Rimini",
-  phoneDisplay: "+39 346 384 8727",
-  phoneHref: "tel:+393463848727",
-  email: "stay@hotelfellini-rimini.it",
+  address: "Viale Vespucci, 40, 47921 Rimini RN, Italy",
+  addressShort: "Viale Vespucci, 40 · Rimini",
+  phoneDisplay: "+39 0541 456 789",
+  phoneHref: "tel:+390541456789",
+  email: "stay@hoteladriano-rimini.it",
   mapEmbedSrc:
-    "https://www.google.com/maps?q=Viale+Rapallo+21,+47924+Rimini+RN,+Italy&output=embed",
+    "https://www.google.com/maps?q=Viale+Vespucci+40,+47921+Rimini+RN,+Italy&output=embed",
   mapLinkSrc:
-    "https://www.google.com/maps/search/?api=1&query=Viale+Rapallo+21,+47924+Rimini+RN,+Italy",
+    "https://www.google.com/maps/search/?api=1&query=Viale+Vespucci+40,+47921+Rimini+RN,+Italy",
 } as const;
 
 export const NAV_LINKS = [

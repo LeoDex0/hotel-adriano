@@ -3,9 +3,9 @@ import PageHero from "@/components/ui/PageHero";
 import Gallery from "@/components/sections/Gallery";
 
 export const metadata: Metadata = {
-  title: "Gallery — Hotel Fellini Rimini",
+  title: "Gallery — Hotel Adriano Rimini",
   description:
-    "The hotel, the rooftop, the old town, and the shoreline beyond it — a full set of stills from Hotel Fellini.",
+    "The hotel, the rooftop, the old town, and the shoreline beyond it — a full set of stills from Hotel Adriano.",
 };
 
 export default function GalleryPage() {

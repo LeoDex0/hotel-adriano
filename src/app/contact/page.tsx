@@ -5,9 +5,9 @@ import ContactForm from "@/components/forms/ContactForm";
 import { SITE } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Contact — Hotel Fellini Rimini",
+  title: "Contact — Hotel Adriano Rimini",
   description:
-    "Get in touch with Hotel Fellini — address, phone, email, and a concierge enquiry form. Replies within one working day.",
+    "Get in touch with Hotel Adriano — address, phone, email, and a concierge enquiry form. Replies within one working day.",
 };
 
 export default function ContactPage() {
@@ -24,7 +24,7 @@ export default function ContactPage() {
           <div className="flex flex-col gap-8">
             <div className="relative aspect-[4/3] w-full overflow-hidden">
               <iframe
-                title="Hotel Fellini Rimini location"
+                title="Hotel Adriano Rimini location"
                 src={SITE.mapEmbedSrc}
                 className="absolute inset-0 h-full w-full border-0 grayscale-[0.2]"
                 loading="lazy"

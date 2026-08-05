@@ -4,7 +4,7 @@ import RoomCard from "@/components/ui/RoomCard";
 import { ROOMS } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Rooms & Suites — Hotel Fellini Rimini",
+  title: "Rooms & Suites — Hotel Adriano Rimini",
   description:
     "Three rooms, three Fellini films — Amarcord, La Dolce Vita, and 8½ — each with its own mood and view on the Rimini seafront.",
 };

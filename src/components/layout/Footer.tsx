@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="mx-auto grid max-w-7xl gap-14 px-6 pb-16 lg:grid-cols-[1.3fr_1fr_1fr] lg:gap-10 lg:px-10">
         <div>
           <p className="font-display text-2xl tracking-[0.1em]">
-            HOTEL FELLINI
+            HOTEL ADRIANO
           </p>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-paper/60">
             {SITE.description}
@@ -59,15 +59,15 @@ export default function Footer() {
       </div>
       <div className="border-t border-ink-line px-6 py-6 lg:px-10">
         <div className="mx-auto flex max-w-7xl flex-col gap-2 text-xs text-paper/40 sm:flex-row sm:items-center sm:justify-between">
-          <p>&copy; {new Date().getFullYear()} Hotel Fellini Rimini. All rights reserved.</p>
-          <p>Viale Rapallo, 21 · 47924 Rimini RN, Italy</p>
+          <p>&copy; {new Date().getFullYear()} Hotel Adriano Rimini. All rights reserved.</p>
+          <p>Viale Vespucci, 40 · 47921 Rimini RN, Italy</p>
         </div>
       </div>
       <p
         aria-hidden
         className="pointer-events-none select-none pb-2 text-center font-display text-[19vw] leading-none text-paper/[0.045]"
       >
-        FELLINI
+        ADRIANO
       </p>
     </footer>
   );

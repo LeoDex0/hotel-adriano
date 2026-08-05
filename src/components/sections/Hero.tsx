@@ -60,7 +60,7 @@ export default function Hero() {
 
         <RevealText
           as="h1"
-          text="Hotel Fellini"
+          text="Hotel Adriano"
           delay={2.05}
           inView={false}
           className="font-display text-[15vw] leading-[0.9] tracking-tight text-paper sm:text-[10vw] lg:text-[7.4vw]"

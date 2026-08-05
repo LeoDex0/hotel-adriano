@@ -27,10 +27,10 @@ const description =
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hotel-site-omega-two.vercel.app"),
-  title: "Hotel Fellini Rimini — Adriatic Dolce Vita",
+  title: "Hotel Adriano Rimini — Adriatic Dolce Vita",
   description,
   keywords: [
-    "Hotel Fellini Rimini",
+    "Hotel Adriano Rimini",
     "Rimini hotel",
     "boutique hotel Rimini",
     "Adriatic coast hotel",
@@ -38,14 +38,14 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     type: "website",
-    siteName: "Hotel Fellini Rimini",
-    title: "Hotel Fellini Rimini — Adriatic Dolce Vita",
+    siteName: "Hotel Adriano Rimini",
+    title: "Hotel Adriano Rimini — Adriatic Dolce Vita",
     description,
     images: ["/images/hero-twilight-coast.jpg"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hotel Fellini Rimini — Adriatic Dolce Vita",
+    title: "Hotel Adriano Rimini — Adriatic Dolce Vita",
     description,
     images: ["/images/hero-twilight-coast.jpg"],
   },

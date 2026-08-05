@@ -29,7 +29,7 @@ export default function Experience() {
         <SectionHeading
           eyebrow="The Experience"
           title="Details worth staying for"
-          description="Everything at Hotel Fellini is built around a slower kind of luxury — the kind you notice on day two, not day one."
+          description="Everything at Hotel Adriano is built around a slower kind of luxury — the kind you notice on day two, not day one."
           align="center"
           className="mx-auto"
         />

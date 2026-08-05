@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Hotel Fellini Rimini — Adriatic Dolce Vita";
+export const alt = "Hotel Adriano Rimini — Adriatic Dolce Vita";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -44,7 +44,7 @@ export default async function Image() {
               lineHeight: 1,
             }}
           >
-            Hotel Fellini
+            Hotel Adriano
           </div>
           <div
             style={{
@@ -72,7 +72,7 @@ export default async function Image() {
             <span>Private Beach</span>
           </div>
           <div style={{ display: "flex", letterSpacing: 3, textTransform: "uppercase" }}>
-            hotelfellini-rimini.it
+            hoteladriano-rimini.it
           </div>
         </div>
       </div>

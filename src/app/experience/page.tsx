@@ -4,9 +4,9 @@ import ExperienceCard from "@/components/ui/ExperienceCard";
 import { EXPERIENCES } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Experiences — Hotel Fellini Rimini",
+  title: "Experiences — Hotel Adriano Rimini",
   description:
-    "Sunset sails, a Romagna cooking class, an Adriatic spa ritual, and a private Fellini film night — six ways to spend a day at Hotel Fellini.",
+    "Sunset sails, a Romagna cooking class, an Adriatic spa ritual, and a private Fellini film night — six ways to spend a day at Hotel Adriano.",
 };
 
 export default function ExperiencePage() {

@@ -53,7 +53,7 @@ export default function Navbar() {
               solid ? "text-ink" : "text-paper"
             )}
           >
-            HOTEL FELLINI
+            HOTEL ADRIANO
           </Link>
 
           <div className="hidden items-center gap-9 md:flex">
