@@ -59,7 +59,7 @@ export default function Footer() {
       </div>
       <div className="border-t border-ink-line px-6 py-6 lg:px-10">
         <div className="mx-auto flex max-w-7xl flex-col gap-2 text-xs text-paper/40 sm:flex-row sm:items-center sm:justify-between">
-          <p>&copy; {new Date().getFullYear()} Hotel Adriano Rimini. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Hotel Adriano Rimini. All rights reserved.{" · "}<a href="https://leodex.dev/" className="underline-offset-2 hover:underline">Website by LeoDex</a></p>
           <p>Viale Vespucci, 40 · 47921 Rimini RN, Italy</p>
         </div>
       </div>
