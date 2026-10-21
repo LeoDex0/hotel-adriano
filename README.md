@@ -2,7 +2,9 @@
 
 Website for a boutique hotel, themed around Fellini films.
 
-**Live:** https://hotel-site-omega-two.vercel.app
+![Preview](.github/preview.jpg)
+
+**Live:** [hotel-site-omega-two.vercel.app](https://hotel-site-omega-two.vercel.app)
 
 ## Stack
 
