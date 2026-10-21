@@ -1,6 +1,6 @@
 # Hotel Adriano
 
-Website for a boutique hotel in Rimini, themed around Fellini films.
+Website for a boutique hotel, themed around Fellini films.
 
 **Live:** https://hotel-site-omega-two.vercel.app
 
