@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Hotel Adriano Rimini — Adriatic Dolce Vita";
+export const alt = "Hotel Adriano — Adriatic Dolce Vita";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -31,7 +31,7 @@ export default async function Image() {
               color: "#e8c67e",
             }}
           >
-            Rimini, Italy · On the Adriatic
+            On the Adriatic
           </div>
         </div>
 
@@ -72,7 +72,7 @@ export default async function Image() {
             <span>Private Beach</span>
           </div>
           <div style={{ display: "flex", letterSpacing: 3, textTransform: "uppercase" }}>
-            hoteladriano-rimini.it
+            hoteladriano.it
           </div>
         </div>
       </div>

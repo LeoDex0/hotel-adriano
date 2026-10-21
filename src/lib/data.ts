@@ -1,14 +1,14 @@
 export const SITE = {
   name: "Hotel Adriano",
-  fullName: "Hotel Adriano Rimini",
+  fullName: "Hotel Adriano",
   tagline: "Adriatic Dolce Vita",
   description:
-    "A cinema-inspired boutique hotel on the Rimini seafront — mid-century glamour, rooftop views of the Adriatic, and unhurried Romagna hospitality.",
+    "A cinema-inspired boutique hotel on the seafront — mid-century glamour, rooftop views of the Adriatic, and unhurried Romagna hospitality.",
   address: "Viale Vespucci, 40, 47921 Rimini RN, Italy",
   addressShort: "Viale Vespucci, 40 · Rimini",
   phoneDisplay: "+39 0541 456 789",
   phoneHref: "tel:+390541456789",
-  email: "stay@hoteladriano-rimini.it",
+  email: "stay@hoteladriano.it",
   mapEmbedSrc:
     "https://www.google.com/maps?q=Viale+Vespucci+40,+47921+Rimini+RN,+Italy&output=embed",
   mapLinkSrc:
@@ -105,7 +105,7 @@ export const AMENITIES: Amenity[] = [
   {
     icon: "Clapperboard",
     title: "Cinema Lounge",
-    description: "A small screening room paying homage to Rimini's most famous son.",
+    description: "A small screening room paying homage to the town's most famous son.",
   },
   {
     icon: "Sparkles",
@@ -191,7 +191,7 @@ export const EXPERIENCES: Experience[] = [
     icon: "Bike",
     tagline: "Cobblestones and piazzas",
     description:
-      "Two Vespas, one guide, and Rimini's old town at its own pace — the Tiberius Bridge, Piazza Malatesta, and the espresso stop nobody puts on a map.",
+      "Two Vespas, one guide, and the old town at its own pace — the Tiberius Bridge, Piazza Malatesta, and the espresso stop nobody puts on a map.",
     duration: "2 hours, mornings",
     price: 80,
     priceUnit: "per Vespa (2 guests)",
@@ -221,7 +221,7 @@ export interface GalleryImage {
 export const GALLERY: GalleryImage[] = [
   {
     src: "/images/hero-twilight-coast.jpg",
-    alt: "Rimini shoreline at twilight seen from above",
+    alt: "Shoreline at twilight seen from above",
     caption: "Adriatic twilight, from the seafront",
     span: "wide",
   },
@@ -232,7 +232,7 @@ export const GALLERY: GalleryImage[] = [
   },
   {
     src: "/images/gallery-piazza-malatesta.jpg",
-    alt: "Historic Piazza Malatesta in Rimini's old town",
+    alt: "Historic Piazza Malatesta in the old town",
     caption: "Piazza Malatesta, old town",
   },
   {
@@ -253,13 +253,13 @@ export const GALLERY: GalleryImage[] = [
   },
   {
     src: "/images/gallery-beach-bars.jpg",
-    alt: "Lively beach bars along the Rimini shoreline",
-    caption: "Rimini's legendary beach clubs",
+    alt: "Lively beach bars along the shoreline",
+    caption: "Legendary beach clubs",
     span: "wide",
   },
   {
     src: "/images/gallery-coast-day.jpg",
-    alt: "Rimini coastline by day from above",
+    alt: "Coastline by day from above",
     caption: "The coastline, by day",
   },
 ];
@@ -326,12 +326,12 @@ export const JOURNAL: JournalPost[] = [
     title: "An Evening in Piazza Malatesta",
     tag: "Old Town",
     excerpt:
-      "Ten minutes from the seafront, Rimini keeps a whole other city — cobblestones, a Roman bridge, and a piazza that gets better after dark.",
+      "Ten minutes from the seafront, the town keeps a whole other city — cobblestones, a Roman bridge, and a piazza that gets better after dark.",
     date: "2026-06-12",
     readTime: "4 min read",
     cover: "/images/gallery-piazza-malatesta.jpg",
     body: [
-      "Most of our guests arrive for the coast and never make it inland, which we understand — the beach is ninety seconds away, and the pool has a view that makes leaving it feel unnecessary. But Rimini's old town is a ten-minute walk from the lobby, and it holds a version of the city the postcards don't show.",
+      "Most of our guests arrive for the coast and never make it inland, which we understand — the beach is ninety seconds away, and the pool has a view that makes leaving it feel unnecessary. But the old town is a ten-minute walk from the lobby, and it holds a version of the city the postcards don't show.",
       "Start at the Tiberius Bridge, still carrying traffic after nearly two thousand years, and follow Corso d'Augusto in as the evening light goes long. By seven, Piazza Malatesta fills with exactly the kind of unhurried crowd Fellini used to film — kids on bicycles, old men arguing gently about football, a gelato queue that never quite gets shorter.",
       "We send guests to a wine bar two streets off the piazza that doesn't have a sign, only a chalkboard. Order the Sangiovese and whatever the owner is serving with it. Our concierge can draw you the route on a napkin, and usually does.",
       "Come back along the water. The walk home is the best part.",
@@ -349,7 +349,7 @@ export const JOURNAL: JournalPost[] = [
     body: [
       "When we started renovating the building, the working name for every room was just a number. Somewhere in the second month, someone on the design team pinned a still from Amarcord above the desk in what's now Room 2 — not for any grand reason, just because the light in the photo matched the light coming through that window at four in the afternoon.",
       "It stuck. By the time the rooms were finished, each one had quietly picked up a film to go with its mood rather than its number: the warm, unhurried one became Amarcord. The one with the chandelier and the separate lounge became La Dolce Vita. The one where the sea fills the balcony doors from sunrise onward could only be 8½.",
-      "Fellini was born a few streets from here, and Rimini has never quite let him go — his face is on murals, his films play in the summer piazza screenings, and half the city can quote Amarcord's opening scene. Naming the rooms after him wasn't really a choice. It was more that nothing else fit.",
+      "Fellini was born a few streets from here, and the town has never quite let him go — his face is on murals, his films play in the summer piazza screenings, and half the city can quote Amarcord's opening scene. Naming the rooms after him wasn't really a choice. It was more that nothing else fit.",
     ],
   },
   {
@@ -362,7 +362,7 @@ export const JOURNAL: JournalPost[] = [
     readTime: "3 min read",
     cover: "/images/gallery-coast-day.jpg",
     body: [
-      "The beach in front of the hotel is quiet before nine and loud by eleven — Rimini's shoreline fills fast in the warmer months, and the rows of striped umbrellas you've probably seen in photos are as full as they look. If you want the sand to yourself, mornings are the only real window.",
+      "The beach in front of the hotel is quiet before nine and loud by eleven — the shoreline fills fast in the warmer months, and the rows of striped umbrellas you've probably seen in photos are as full as they look. If you want the sand to yourself, mornings are the only real window.",
       "By afternoon, the energy moves to the beach clubs further along the shore — the kind with music, spritz, and a very Italian disregard for anyone in a hurry. We can get you a table at the good ones without the wait, which is most of what a concierge is actually for.",
       "But the real move is golden hour. Around eight, the light goes the color our hero photo is named for, the day-trippers thin out, and the water turns still enough to hear the waves properly for the first time since morning. Grab a spritz from the rooftop bar and take it down to the shore. It's the ninety seconds we always mean.",
     ],

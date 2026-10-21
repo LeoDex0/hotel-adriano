@@ -47,7 +47,7 @@ export default function Gallery({
           <div className="flex flex-wrap items-end justify-between gap-4">
             <SectionHeading
               eyebrow="Gallery"
-              title="Rimini, in frames"
+              title="The coast, in frames"
               description="A few stills from the hotel, and from the shoreline beyond it."
             />
             {limit && (

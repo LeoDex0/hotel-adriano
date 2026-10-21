@@ -34,7 +34,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <Image
           src={HERO_IMAGE}
-          alt="Rimini coastline at twilight, Adriatic sea"
+          alt="Coastline at twilight, Adriatic sea"
           fill
           priority
           sizes="100vw"
@@ -55,7 +55,7 @@ export default function Hero() {
           className="mb-6 flex items-center gap-3 font-sans text-xs uppercase tracking-[0.4em] text-gold-bright"
         >
           <span className="h-px w-10 bg-gold-bright" />
-          Rimini, Italy · On the Adriatic
+          On the Adriatic
         </motion.p>
 
         <RevealText

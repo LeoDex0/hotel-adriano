@@ -4,7 +4,7 @@ import BookingForm from "@/components/forms/BookingForm";
 import { SITE } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Reserve — Hotel Adriano Rimini",
+  title: "Reserve — Hotel Adriano",
   description:
     "Request a reservation at Hotel Adriano — choose a room, your dates, and an optional experience. Our concierge confirms by email within one working day.",
 };

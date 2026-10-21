@@ -23,29 +23,26 @@ const inter = Inter({
 });
 
 const description =
-  "A cinema-inspired boutique hotel on the Rimini seafront. Forty-two rooms and suites, a rooftop pool, and a private beach — ninety metres from your pillow.";
+  "A cinema-inspired boutique hotel on the seafront. Forty-two rooms and suites, a rooftop pool, and a private beach — ninety metres from your pillow.";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://hotel-site-omega-two.vercel.app"),
-  title: "Hotel Adriano Rimini — Adriatic Dolce Vita",
+  title: "Hotel Adriano — Adriatic Dolce Vita",
   description,
   keywords: [
-    "Hotel Adriano Rimini",
-    "Rimini hotel",
-    "boutique hotel Rimini",
+    "Hotel Adriano",
     "Adriatic coast hotel",
-    "Rimini beachfront hotel",
   ],
   openGraph: {
     type: "website",
-    siteName: "Hotel Adriano Rimini",
-    title: "Hotel Adriano Rimini — Adriatic Dolce Vita",
+    siteName: "Hotel Adriano",
+    title: "Hotel Adriano — Adriatic Dolce Vita",
     description,
     images: ["/images/hero-twilight-coast.jpg"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hotel Adriano Rimini — Adriatic Dolce Vita",
+    title: "Hotel Adriano — Adriatic Dolce Vita",
     description,
     images: ["/images/hero-twilight-coast.jpg"],
   },

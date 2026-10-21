@@ -39,7 +39,7 @@ export default function Preloader() {
               transition={{ duration: 0.7, delay: 0.4 }}
               className="text-[11px] uppercase tracking-[0.4em] text-gold"
             >
-              Rimini
+              Boutique Hotel
             </motion.span>
             <div className="mt-2 h-px w-32 overflow-hidden bg-ink-line">
               <motion.div
